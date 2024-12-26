@@ -1,4 +1,4 @@
-import { Inter, Lusitana, Lustria } from 'next/font/google';
+import { Inter, Lustria } from 'next/font/google';
 
 export const inter = Inter({ subsets: ['latin', 'vietnamese'] });
 export const lusitana = Lustria({
